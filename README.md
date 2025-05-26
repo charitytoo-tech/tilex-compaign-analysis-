@@ -25,7 +25,8 @@ This project analyzes the performance of marketing campaigns at Tilex using SQL 
 - Insights summary for stakeholders
 
 ## Author
-[charity] |  | [blessedlovedddd@gmail.com]
+charity
+blessedlovedddd@gmail.com
 # Tilex Campaign Analysis
 
 This project analyzes marketing campaign performance data for Tilex using SQL and dashboards.
