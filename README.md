@@ -25,4 +25,28 @@ This project analyzes the performance of marketing campaigns at Tilex using SQL 
 - Insights summary for stakeholders
 
 ## Author
-[Your Name] | [LinkedIn Profile] | [Email]
+[charity] |  | [blessedlovedddd@gmail.com]
+# Tilex Campaign Analysis
+
+This project analyzes marketing campaign performance data for Tilex using SQL and dashboards.
+
+## Overview
+
+We used campaign data including impressions, clicks, and conversions to evaluate the effectiveness of marketing strategies and improve spend efficiency.
+
+## Tools Used
+
+- SQL (for querying UWare marketing data)
+- Power BI (for visualization and reporting)
+- GitHub (for version control and collaboration)
+
+## Files
+
+- `Campaign_performance.sql` – SQL script to extract campaign KPIs
+- `dashboard.png` – Visualization showing performance trends
+
+## Key Insights
+
+- Identified high-performing channels based on conversion rate
+- Optimized campaign spend by removing underperforming regions
+- Presented findings to marketing stakeholders using dashboards
