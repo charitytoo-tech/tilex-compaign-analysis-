@@ -1,0 +1,26 @@
+# Tilex Campaign Performance Dashboard
+
+This dashboard was created to support the marketing team at Tilex by providing real-time visibility into campaign performance across multiple digital channels.
+
+## Key Metrics Tracked
+- **Impressions**: Number of times the ad was shown
+- **Clicks**: User interactions with the ad
+- **Conversions**: Successful customer actions (e.g., purchase, signup)
+- **Click-Through Rate (CTR)**: Clicks ÷ Impressions
+- **Cost Per Conversion**: Spend ÷ Conversions
+
+## Data Source
+All metrics were queried from the `marketing_campaigns` table in UWare using SQL. Data was filtered by campaign start and end dates.
+
+## Tools Used
+- **SQL**: For extracting and transforming campaign data
+- **Looker Studio / Power BI**: To build visual dashboards with filters for channel, region, and campaign
+
+## Business Outcome
+The dashboard helped the marketing team:
+- Identify underperforming campaigns in specific regions
+- Reallocate budget from low-ROI channels
+- Improve targeting in the next campaign cycle
+
+## Screenshot (Optional)
+*Include a PNG or PDF of the dashboard here if available.*
